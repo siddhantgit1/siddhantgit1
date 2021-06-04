@@ -2,7 +2,7 @@
 <h3 align="center">My interest lies in Full Stack Development(MERN). I am a B.Tech graduate in Electronics and telecommunication from the Bangalore Institute of Technology. I like playing chess and reading books(preferably biography,self-help or finance) during my free time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhantgit1&label=Profile%20views&color=0e75b6&style=flat" alt="siddhantgit1" /> </p>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 - 🔭 I’m currently working on **Nodejs, Java, JavaScript**
 
